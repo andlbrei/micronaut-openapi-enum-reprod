@@ -1,6 +1,9 @@
 ## Micronaut 4.5.0 Documentation
 
-Run ` ./gradlew :generateServerOpenApiModels`
+Micronaut OpenAPI Generator generates an empty shell of an enum class when `if/then` is present to conditionally require a field when validating.
+Removing `if/then` results in a correct enum representation.
+
+Run `./gradlew :generateServerOpenApiModels`
 
 
 ---
