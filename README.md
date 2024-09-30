@@ -1,5 +1,10 @@
 ## Micronaut 4.5.0 Documentation
 
+Run ` ./gradlew :generateServerOpenApiModels`
+
+
+---
+
 - [User Guide](https://docs.micronaut.io/4.5.0/guide/index.html)
 - [API Reference](https://docs.micronaut.io/4.5.0/api/index.html)
 - [Configuration Reference](https://docs.micronaut.io/4.5.0/guide/configurationreference.html)
